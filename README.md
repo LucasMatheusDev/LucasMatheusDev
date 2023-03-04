@@ -1,8 +1,8 @@
 ## Hello, my name is Lucas Matheus, I'm a creator of videos, articles and ideas about programming and technology!!
 <div align="left">
   <a href="https://github.com/LucasMatheusDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMatheusDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMatheusDev&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMatheusDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMatheusDev&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 <div align="left" style="display: inline_block"><br>
      <img align="center" alt="Lucas-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
