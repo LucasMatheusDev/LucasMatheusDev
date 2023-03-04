@@ -15,7 +15,7 @@
   ##
  
 <div align="left" > 
-  <a href="https://www.youtube.com/channel/UCDSj2PU1Mq7NsSIToEwbyzQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@lucasmatheusdev2191/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:lucasmatheusdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucasmatheusdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://medium.com/@lucasmatheusdev" target="_blank"><img src="https://img.shields.io/badge/-Medium-FCFCFC?style=for-the-badge&logo=medium&logoColor=black" target="_blank"></a>  
