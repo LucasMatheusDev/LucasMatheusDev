@@ -1,10 +1,15 @@
-## Hello, my name is Lucas Matheus, I'm a creator of videos, articles and ideas about programming and technology!!
-<div align="left">
+<div align="center">
+  <div align="center" style="display: inline_block"><br>
+    
+# Hello 👋 , my name is Lucas Matheus.
+## I'm a creator of videos, articles and ideas about programming and technology!!
+
+<div align="center">
   <a href="https://github.com/LucasMatheusDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMatheusDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMatheusDev&layout=compact&langs_count=7&theme=algolia"/>
 </div>
-<div align="left" style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
      <img align="center" alt="Lucas-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
    <img align="center" alt="Lucas-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -14,7 +19,7 @@
   
   ##
  
-<div align="left" > 
+<div align="center" > 
   <a href="https://www.youtube.com/@lucasmatheusdev2191/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:lucasmatheusdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucasmatheusdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
