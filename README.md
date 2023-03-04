@@ -1,4 +1,4 @@
-## Olá eu sou o Lucas Matheus, criadora de conteúdo de videos, artigos e ideias sobre programação e tecnologia!
+## Olá eu sou o Lucas Matheus, criador de videos, artigos e ideias sobre programação e tecnologia!
 <div align="left">
   <a href="https://github.com/LucasMatheusDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMatheusDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
